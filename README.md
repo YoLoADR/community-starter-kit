@@ -31,7 +31,7 @@ newIssueWelcomeComment: >
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  Thanks for opening this pull request! Please check out our contributing guidelines.
+  Thanks for opening this pull request! Please check out our contributing guidelines. test
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
